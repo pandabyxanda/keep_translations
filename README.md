@@ -1,1 +1,2 @@
 # keep_translations
+deprecated
